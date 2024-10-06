@@ -24,14 +24,14 @@ html, body {
 #workbook{
 position: absolute;
 left: 25%;
-top: 2.5%;
+top: -45%;
 color: #ffffff;
 }
 
 #grade{
-    position: fixed;
-    left: 65%;
-    top:2.5%;
+    position: absolute;
+    left: 75%;
+    top: -45% ;
     color: #ffffff;
 }
 
