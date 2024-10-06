@@ -1,0 +1,38 @@
+html, body {
+    overflow-x: hidden; /* إخفاء التمرير الأفقي */
+    max-width: 100%; 
+    margin: 0;
+    padding: 0;
+    word-wrap: break-word; /* يجعل النص يكسر إلى سطر جديد إذا تجاوز العرض */
+    background-color: #FAF7F0;
+}
+
+#div1{
+    background-color: #697565;
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    top: 5%;
+}
+
+#home{
+    width: 42px;
+    height: auto;
+    position:fixed;
+    left: 10%;
+
+}
+
+#workbook{
+position: fixed;
+left: 25%;
+top: 2.5%;
+color: #ffffff;
+}
+
+#grade{
+    position: fixed;
+    left: 65%;
+    top:2.5%;
+    color: #ffffff;
+}
